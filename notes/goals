@@ -1,0 +1,4 @@
+1. read in data from REDCap
+2. read in metadata from REDCap
+3. link data and metadata in an intuitive class structure.
+4. push data back to REDCap
